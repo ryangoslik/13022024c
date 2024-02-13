@@ -1,0 +1,8 @@
+Temat: Programowanie obiektowe w c++, wprowadzenie
+
+Programowanie zorientowane obiektowo: OOP
+Obiekt- powstaje z danej instancji klasy
+Class- jest to prezpis na obiekt 
+właściwości, parametry-
+Metody-
+this- jest to słowo kluczow oznaczające odwołujące się do danej klasy
